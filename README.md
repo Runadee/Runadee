@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Edanur.
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning Full-Stack Web Development, Mobile App Development.
-- 💞️ I’m looking to collaborate on a mobile application with react / javascript.
+- 💞️ I’m looking to collaborate on a mobile application with React Native / JavaScript.
 - 📫 How to reach me @codes.eda via  Instagram page or via LinkedIn Edanur Gurgen.
 
 <!---
