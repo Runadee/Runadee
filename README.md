@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Edanur.
 - 👀 I’m a Software Developer.
-- I can speak Türkish(Native) , English and German ( both of B2 Levels)
+- I can speak Turkish(Native) , English and German ( both of B2 Levels)
 - 🌱 I’m currently learning Full-Stack Web Development and Mobile App Development.
 - 💞️ I’m looking to collaborate on building mobile apps and web technologies.
 - 📫 How to reach me: via LinkedIn Edanur Gurgen.
