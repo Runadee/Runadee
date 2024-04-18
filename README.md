@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 - 👋 Hi, I’m Edanur.
-- 👀 I’m a Software Developer.
+- 👀 I'm a Software Developer dedicated to lifelong learning and self-improvement. With a knack for multitasking and thriving under pressure, I'm always eager to tackle new challenges. Whether working solo or in a team, I approach problem-solving with creativity and adaptability, aiming for optimal results. I strongly believe in the power of communication and building strong relationships to drive progress in the software field.
 - I can speak Turkish(Native) , English and German ( both of B2 Levels)
 - 🌱 I’m currently learning Full-Stack Web Development and Mobile App Development.
 - 💞️ I’m looking to collaborate on building mobile apps and web technologies.
