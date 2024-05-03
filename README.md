@@ -2,7 +2,9 @@
 
 - 👋 Hi, I’m Edanur.
   
-- 👀 I'm a Software Developer dedicated to lifelong learning and self-improvement. With a knack for multitasking and thriving under pressure, I'm always eager to tackle new challenges. Whether working solo or in a team, I approach problem-solving with creativity and adaptability, aiming for optimal results. I strongly believe in the power of communication and building strong relationships to drive progress in the software field.
+- 👀 I'm a Software Developer dedicated to lifelong learning and self-improvement. With a knack for multitasking and thriving under pressure, I'm always eager to tackle new challenges. Whether working solo or in a team, I approach problem-solving with creativity and adaptability, aiming for optimal results.
+
+- I strongly believe in the power of communication and building strong relationships to drive progress in the software field.
   
 
 
