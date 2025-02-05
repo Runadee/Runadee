@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Edanur.
   
-- 👀 I'm a Software Developer dedicated to lifelong learning and self-improvement. With a knack for multitasking and thriving under pressure, I'm always eager to tackle new challenges.
+- 👀 Healthcare professional transitioning into data analytics with a strong foundation in clinical experience and a passion for data-driven decision-making. Currently enhancing my skills in data analysis, visualization, and statistical modeling to bridge the gap between healthcare and technology..
   
 -  Whether working solo or in a team, I approach problem-solving with creativity and adaptability, aiming for optimal results.
 
